@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p dcxtab Doubly corrected methods for "Difference" and "system" GMM dynamic panel estimator Use dcxtab With STATA 18
