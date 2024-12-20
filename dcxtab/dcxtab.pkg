@@ -1,5 +1,13 @@
-d 'DEA': Data envelopment analysis
+d 'dcxtab': Doubly corrected methods for "Difference" and "system" GMM dynamic panel estimator Use dcxtab With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f abar.ado
+f abar.hlp
+f dcivreg.ado
+f dcivreg.sthlp
+f dcxtab.ado
+f dcxtab.sthlp
+f lxtabond2.mlib
+f xtab2_p.ado
+f xtabond2.ado
+f xtabond2.hlp
+f xtabond2.mata
