@@ -3,6 +3,8 @@ Doubly corrected methods for "Difference" and "system" GMM dynamic panel estimat
 
 Doubly corrected and misspecification robust (DCMR) variance estimator for linear GMM Use dcxtab With STATA 18
 
+https://www.youtube.com/watch?v=MRCWlygCgPo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
